@@ -11,6 +11,14 @@
     <title>$Title$</title>
   </head>
   <body>
-9 năm làm 1 Điện Biên
+  Đứng dõi theo bóng dáng nhỏ hao mòn
+
+  Mảnh tim gầy qua mấy bận héo hon
+
+  Xin hãy để anh chở che, vá lại!
+
+  Anh sẽ gom hết tháng ngày tư lự
+
+  Nguồn : https://bloganchoi.com/bai-tho-tinh-hay-nhat/
   </body>
 </html>
