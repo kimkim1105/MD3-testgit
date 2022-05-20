@@ -11,10 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-hue
-  phong
-  long
-  huong
-
+9 năm làm 1 Điện Biên Nên vành Hoa Đỏ Nên thiên sử vàng
   </body>
 </html>
