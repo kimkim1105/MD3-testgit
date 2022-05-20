@@ -11,14 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  Đứng dõi theo bóng dáng nhỏ hao mòn
-
-  Mảnh tim gầy qua mấy bận héo hon
-
-  Xin hãy để anh chở che, vá lại!
-
-  Anh sẽ gom hết tháng ngày tư lự
-
-  Nguồn : https://bloganchoi.com/bai-tho-tinh-hay-nhat/
+Bóng cây cao cả, nên người thích chơi đá
   </body>
 </html>
