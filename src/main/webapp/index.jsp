@@ -11,7 +11,6 @@
     <title>$Title$</title>
   </head>
   <body>
-  hue
-  huong
+9 năm làm 1 Điện Biên
   </body>
 </html>
